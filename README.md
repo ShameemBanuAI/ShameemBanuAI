@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shameem Banu Akbar 
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning , Deep Learning
+- 👀 I’m interested in Artificial Intelligence and Data Science
+- 🌱 I’m currently learning Machine Learning , Deep Learning , Time series analysis ,NLP
   
 - 📫 How to reach me shameemakbar91@gmail.com
 - 😄 Pronouns: ...
